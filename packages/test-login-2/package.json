@@ -1,5 +1,5 @@
 {
-  "name": "test-login-2",
+  "name": "@noldus/test-login-2",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Irfan-noldus <shaik.mohammedirfan@noldus.com>",
@@ -28,5 +28,6 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  }
+  },
+  "gitHead": "e5e760fbe3b599ce05f2fc76c244f655f1882ab2"
 }
