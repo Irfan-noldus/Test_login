@@ -4,7 +4,7 @@ function testlogin2() {
   // Define state variable count and a function setCount to update it
   const [count, setCount] = useState(0);
 
-  console.log("hel");
+ 
 
   // Event handler to increment the count
   const increment = () => {
